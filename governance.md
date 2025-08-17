@@ -36,14 +36,14 @@ Scope and decision rights
 - Final appeal body for disputes and CoC escalations.
 
 Composition and terms
-- 5–9 directors; balanced representation across firms, clients, vendors, academia/public interest.
-- Terms: 2 years, staggered; renewable by vote.
+- As now
+- Terms - ask Toby
 - Conflict of interest: declare annually; recuse when directly interested.
 
 Cadence and artifacts
 - Meets at least quarterly; may convene ad hoc for ratifications.
 - Receives monthly ops dashboard and quarterly roadmap from SSC.
-- Publishes: Board resolutions (public summaries), ratifications, annual report.
+- Publishes: - ask Toby
 
 Interfaces
 - Receives proposals for policy and breaking changes from SSC.
@@ -64,7 +64,7 @@ Scope and decision rights
 
 Composition and terms
 - 7–11 members; multi‑stakeholder mix; includes one EC liaison.
-- 1‑year terms, renewable; mix of appointed and elected seats as defined in GOVERNANCE.md.
+- 1‑year terms, renewable; mix of appointed and elected seats as defined in GOVERNANCE.md (to be draft - DA).
 
 Cadence and artifacts
 - Meets monthly (decision meeting) and quarterly for roadmap review.
@@ -194,10 +194,10 @@ Transparency SLAs
 - Monthly dashboard by the 5th business day.
 
 Licensing and IPR
-- Taxonomy/content under CC BY 4.0 or CC0; code under Apache‑2.0 or MIT; contributions via DCO sign‑off.
-- Crosswalks: verify target scheme licensing; include required attribution/version pinning.
+- MIT License? Check with Jim
+- Crosswalks: verify target scheme licensing; include required attribution/version pinning. (EG NAICS)
 
-Metrics and monitoring
+Metrics and monitoring (Sample ideas - we need to agree on metrics)
 - Community: active contributors, PRs opened/merged, time‑to‑first‑response, new contributors.
 - Quality: CI pass rate, data‑quality checks, deprecation coverage.
 - Adoption: downloads, site traffic to spec pages, implementer directory growth.
